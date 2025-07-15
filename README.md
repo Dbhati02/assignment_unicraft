@@ -32,3 +32,28 @@ A lightweight Flask-based web scraper to extract basic information from websites
 ```bash
 git clone https://github.com/Dbhati02/assignment_unicraft.git
 
+⚙️ Setup & Run Instructions
+2. Create Virtual Environment (Optional but Recommended)
+python -m venv venv
+🔄 Activate the environment:
+Windows:
+venv\Scripts\activate
+macOS/Linux:
+source venv/bin/activate
+
+3. Install Required Packages
+pip install -r requirements.txt
+
+4. Run the Flask App
+python app.py
+Then open your browser and visit:
+👉 http://127.0.0.1:5000/
+
+📁 Output Sample
+Output CSV file is generated at: data/output.csv
+Company Name,Website URL,Contact Info
+Example Domain,https://example.com,N/A
+Internet for people, not profit — Mozilla Global,https://mozilla.org,trademark-permissions@mozilla.com
+Error,https://gnu.org,❌ Timed out
+
+
