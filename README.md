@@ -30,5 +30,5 @@ A lightweight Flask-based web scraper to extract basic information from websites
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd smart-scraper
+git clone https://github.com/Dbhati02/assignment_unicraft.git
+
